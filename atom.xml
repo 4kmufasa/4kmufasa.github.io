@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://4kmufasa.github.io</id>
     <title>ViVala Vida</title>
-    <updated>2020-10-15T08:57:37.998Z</updated>
+    <updated>2020-10-15T11:34:10.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://4kmufasa.github.io"/>
     <link rel="self" href="https://4kmufasa.github.io/atom.xml"/>
@@ -10,4 +10,25 @@
     <logo>https://4kmufasa.github.io/images/avatar.png</logo>
     <icon>https://4kmufasa.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ViVala Vida</rights>
+    <entry>
+        <title type="html"><![CDATA[2020.10.15]]></title>
+        <id>https://4kmufasa.github.io/post/20201015/</id>
+        <link href="https://4kmufasa.github.io/post/20201015/">
+        </link>
+        <updated>2020-10-15T11:06:33.000Z</updated>
+        <content type="html"><![CDATA[<p>今天是换药的第一天。<br>
+早上一片舍曲林再加上之前一直在吃的碳酸锂一起温水送服，吃完药脑子昏昏沉沉的。<br>
+从中午开始出现恶心，完全不想吃东西，哪怕硬塞进去也没有味道，不知道是不是碳酸锂的问题。<br>
+下午开始打哈欠和心悸。打哈欠是停不下来的那种，哪怕喘不过气也停不下来。心悸就是一阵一阵的，过会儿就停了。<br>
+晚上和家里人谈了一下，打算过几天再去一趟精神卫生中心。<br>
+感觉自己像个行尸走肉，没有任何情感。算一下，吃碳酸锂有大半年了。之前刚开始吃的时候也是和现在这样各种不舒服，最后花了半学期才慢慢适应。<br>
+当时也是怕得要死，现在却已经面无表情了。<br>
+学校那边请了长假，所以我不用担心调休的事。说起来还挺搞笑的，我想融入人群但又害怕人群。每次都是在学校待了几天就被拽回家里。课啊成绩啊都已经佛系了，能活下来就好。<br>
+挺想许四她们几个的。之前抑郁发作的时候试着打过电话，班主任没接，也就不了了之。想赶紧回到学校也是想赶紧回到她们身边。每次这么一想，我就越发觉得自己没用。<br>
+到底是双相情感障碍毁了我还是我毁了自己，我还真不清楚。<br>
+说实话，我挺佩服刘丧的。生活给了他那么多的挫折和压力，他却仍然能够选择善待这个世界，这是我做不到的。<br>
+世界固然美好，有我也好，没我也罢。<br>
+希望今晚不会失眠。🦈</p>
+]]></content>
+    </entry>
 </feed>
